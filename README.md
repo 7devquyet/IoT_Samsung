@@ -134,8 +134,3 @@ This project is an IoT-based monitoring system that collects environmental data 
 - Add more sensors for extended monitoring capabilities.
 - Integrate with other IoT platforms like AWS IoT or Google Cloud IoT.
 - Improve the user interface for data visualization.
-``` 
-
-### Ghi chú:
-- Hãy thay thế các giá trị như `TELEGRAM_BOT_TOKEN` và `THINGSPEAK_API_KEY` bằng giá trị thật của bạn trước khi sử dụng. 
-- Nếu cần chỉnh sửa hoặc bổ sung, hãy cho mình biết!
